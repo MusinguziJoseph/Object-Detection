@@ -4,11 +4,11 @@ Overview
 This project implements a state-of-the-art object detection model using the YOLO11 (You Only Look Once) algorithm, a deep learning-based algorithm known for real-time object detection capabilities. The model is designed to detect multiple objects within an image or video stream
 Features
 
-Supports detection of a wide variety of common objects (e.g., vehicles, people, animals, etc.)
-Leverages the powerful YOLO11 algorithm for fast and accurate object detection
-Includes pre-trained weights for improved out-of-the-box performance
-Supports both CPU and GPU acceleration for optimal inference speed
-Includes comprehensive documentation and examples for getting started
+  Supports detection of a wide variety of common objects (e.g., vehicles, people, animals, etc.)
+  Leverages the powerful YOLO11 algorithm for fast and accurate object detection
+  Includes pre-trained weights for improved out-of-the-box performance
+  Supports both CPU and GPU acceleration for optimal inference speed
+  Includes comprehensive documentation and examples for getting started
 Technologies Used
 - Python
 - PyTorch
