@@ -1,5 +1,5 @@
 # Object-Detection
-Overview
+#Overview
 
 This project implements a state-of-the-art object detection model using the YOLO11 (You Only Look Once) algorithm, a deep learning-based algorithm known for real-time object detection capabilities. The model is designed to detect multiple objects within an image or video stream
 Features
@@ -9,14 +9,14 @@ Features
   Includes pre-trained weights for improved out-of-the-box performance
   Supports both CPU and GPU acceleration for optimal inference speed
   Includes comprehensive documentation and examples for getting started
-Technologies Used
+#Technologies Used
 - Python
 - PyTorch
 - OpenCV
 - YOLO11 (Ultralytics)
 
 
-Table of Contents
+#Table of Contents
 
   Installation
   Usage
@@ -25,34 +25,34 @@ Table of Contents
   Contributing
   License
 
-Installation
+#Installation
   To set up this project locally, follow these steps:
 
 Clone the repository:
   git clone https://github.com/yourusername/object-detection-yolo11.git
   cd object-detection-yolo11
 
-Install dependencies:
+#Install dependencies:
   ultralytics
   torch
   openCV
   streamlit
 pip install -r requirements.txt
-Usage
+#Usage
   After installation, you can test the object detection model on an image, video, or live webcam feed:
   type: streamlit run app.py                     upload an image/video or live webcam
 
-Model Details
+#Model Details
   Training Dataset: The model was trained on Running a red light.v1i.yolov11 from Roboflow Universe
 
 
-Future Improvements
+#Future Improvements
 
   Model Optimization: Exploring quantization and pruning for deployment on edge devices.
   Advanced Data Augmentation: Testing additional augmentation techniques for increased robustness.
   Custom Classes: Expanding the model’s application to more specific domains by training on custom data.
 
-Contributing
+#Contributing
   Contributions are welcome! If you would like to contribute to this project, please follow these steps:
   Fork the repository.
   Create a new branch (git checkout -b feature/YourFeature).
@@ -60,6 +60,6 @@ Contributing
   Push to the branch (git push origin feature/YourFeature).
   Open a pull request.
 
-License
+#License
   This project is licensed under the MIT License. See the LICENSE file for details.
 
