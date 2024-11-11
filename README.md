@@ -6,7 +6,7 @@ This project implements a state-of-the-art object detection model using the YOLO
 ## Demo
 ![image alt](https://github.com/MusinguziJoseph/Object-Detection/commit/4d028636ad3e4bf5eaf58c729698c1b3b3555028)
 ![image alt](https://github.com/MusinguziJoseph/Object-Detection/blob/8ee5c923fe1a090b4d0ba6cff1ee8bda0fd61f99/NEUTRAL.jpg)
-![image alt]()
+![image alt](https://github.com/MusinguziJoseph/Object-Detection/blob/31065ab8011c37d47d86e5b5e590847effd95da1/Negative%20sentiment.jpg)
 ## Key Features
   * Supports detection of a wide variety of common objects (e.g., vehicles, people, animals, etc.)
   * Leverages the powerful YOLO11 algorithm for fast and accurate object detection
