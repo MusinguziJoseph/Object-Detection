@@ -4,9 +4,9 @@
 ## Project Overview
 This project implements a state-of-the-art object detection model using the YOLO11 (You Only Look Once) algorithm, a deep learning-based algorithm known for real-time object detection capabilities. The model is designed to detect multiple objects within an image or video stream
 ## Demo
-![image alt](https://github.com/MusinguziJoseph/Object-Detection/blob/b74ee0b862345a2847f3dd86aab77f84677a5c64/Traffic%20light.jpg)
 ![image alt](https://github.com/MusinguziJoseph/Object-Detection/blob/b5d8478d929f69de476d6f9dfafff8608d63a650/detection%20person.jpg)
-![image alt](https://github.com/MusinguziJoseph/Object-Detection/blob/31065ab8011c37d47d86e5b5e590847effd95da1/Negative%20sentiment.jpg)
+![image alt](https://github.com/MusinguziJoseph/Object-Detection/blob/b74ee0b862345a2847f3dd86aab77f84677a5c64/Traffic%20light.jpg)
+![image alt](https://github.com/MusinguziJoseph/Object-Detection/blob/9a6fce12529f1d9f5dd7b87279df8a16d2375c2d/car1.jpg)
 ## Key Features
   * Supports detection of a wide variety of common objects (e.g., vehicles, people, animals, etc.)
   * Leverages the powerful YOLO11 algorithm for fast and accurate object detection
