@@ -19,7 +19,7 @@ This project implements a state-of-the-art object detection model using the YOLO
 
 ## Table of Contents
 1. Installation
-2. Usage](#usage)
+2. Usage
 3. Model Details
 4. Future Improvements
 5. Contributing
@@ -34,7 +34,7 @@ To set up this project locally, follow these steps:
    cd object-detection-yolo11
    
 2. Install dependencies:
-- ultralytics
+  - ultralytics
   - torch
   - openCV
   - streamlit
