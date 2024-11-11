@@ -30,8 +30,8 @@ To set up this project locally, follow these steps:
 
 1. Clone the repository:
    
-   git clone https://github.com/yourusername/object-detection-yolo11.git
-   cd object-detection-yolo11
+   * git clone https://github.com/yourusername/object-detection-yolo11.git
+   * cd object-detection-yolo11
    
 2. Install dependencies:
   - ultralytics
